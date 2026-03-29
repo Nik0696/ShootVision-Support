@@ -2,7 +2,7 @@
 
 ## Kontakt
 Bei Fragen oder Problemen schreibe eine E-Mail an:
-**[deine@email.de]**
+**shootvision@icloud.com**
 
 ## Häufige Fragen
 
@@ -21,4 +21,4 @@ Beim Online-Wettbewerb werden Ergebnisse temporär über iCloud übertragen.
 Einstellungen → Wettbewerb zurücksetzen.
 
 **Die App stürzt ab / ein Fehler tritt auf**
-Bitte beschreibe das Problem und deine iOS-Version in einer E-Mail an [deine@email.de]
+Bitte beschreibe das Problem und deine iOS-Version in einer E-Mail an shootvision@icloud.com
